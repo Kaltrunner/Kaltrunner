@@ -4,8 +4,9 @@ Hello! I'm a full-stack software engineer with expertise in React, HTML/CSS, res
 You can check out my porfolio here www.erikmrussell.com and my LinkedIn here https://www.linkedin.com/in/erik-russell-software-engineer/.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner&show_icons=true)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner&show_icons=true&theme=transparent)
 
 <!--
 **Kaltrunner/Kaltrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
