@@ -9,7 +9,7 @@ I'm a full-stack software engineer with expertise in React, JS, and HTML/CSS, re
 
 REACT / JS / HTML / CSS
 
-## Examples of  Work
+## Examples of  Work:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaltrunner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
