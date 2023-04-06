@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, Erik Russell
+### Hi there 👋
 #### I am Front End Software Engineer
-![I am Front End Software Engineer](https://github.com/Kaltrunner)
+<!-- ![I am Front End Software Engineer](https://github.com/Kaltrunner) -->
 
 Hello! I'm a full-stack software engineer with expertise in React, HTML/CSS, responsive design, and design systems. Having spent ten years in the screen printing industry, I've developed strong problem-solving skills, exceptional attention to detail, and effective communication across various functions. You can check out my porfolio here www.erikmrussell.com and my LinkedIn here https://www.linkedin.com/in/erik-russell-software-engineer/.
 
@@ -33,9 +33,9 @@ Skills: REACT / JS / HTML / CSS
 - 📫 How to reach me: erikrussells@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kaltrunner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background="#fff">](https://www.linkedin.com/in/https://www.linkedin.com/in/erik-russell-software-engineer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.erikmrussell.com)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kaltrunner)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background="#fff">](https://www.linkedin.com/in/https://www.linkedin.com/in/erik-russell-software-engineer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.erikmrussell.com)   -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaltrunner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaltrunner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltrunner&show_icons=true)  
 
