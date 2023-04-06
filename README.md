@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### My name is Erik Russell
 <!-- ![I am Front End Software Engineer](https://github.com/Kaltrunner) -->
 
-I'm a full-stack software engineer with expertise in React, JS, and HTML/CSS, responsive design, and design systems. Having spent ten years in the screen printing industry, I've developed strong problem-solving skills, exceptional attention to detail, and effective communication across various functions. You can check out my porfolio here www.erikmrussell.com and my LinkedIn here [link](https://www.linkedin.com/in/erik-russell-software-engineer/).
+I'm a full-stack software engineer with expertise in React, JS, and HTML/CSS, responsive design, and design systems. Having spent ten years in the screen printing industry, I've developed strong problem-solving skills, exceptional attention to detail, and effective communication across various functions. You can check out my [Portfolio](www.erikmrussell.com)here and my LinkedIn [LinkedIn](https://www.linkedin.com/in/erik-russell-software-engineer/)here.
 
 Skills: REACT / JS / HTML / CSS
 
