@@ -1,7 +1,7 @@
 # Hi there 👋
 ## My name is Erik Russell
 
-I'm a front-end software engineer with expertise in React.JS, HTML, and CSS, responsive design, and design systems. Having spent ten years in the screen printing industry, I've developed strong problem-solving skills, exceptional attention to detail, and effective communication across various functions. You can view out my [Portfolio](https://www.erikmrussell.com) <- here and my [LinkedIn](https://www.linkedin.com/in/erik-russell-software-engineer/) <- there.
+I'm a front-end software engineer with expertise in React.JS, HTML, and CSS, responsive design, and design systems. Having spent ten years in the screen printing industry, I've developed strong problem-solving skills, exceptional attention to detail, and effective communication across various functions. You can view my [Portfolio](https://www.erikmrussell.com) <- here and my [LinkedIn](https://www.linkedin.com/in/erik-russell-software-engineer/) <- there.
 
 📫: erikrussells@gmail.com 
 
